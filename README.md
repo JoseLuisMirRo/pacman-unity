@@ -37,10 +37,10 @@ El proyecto se creó con la plantilla **Universal 2D** y usa el **nuevo Input Sy
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/JoseLuisMirRo/come-puntos.git
+   git clone https://github.com/JoseLuisMirRo/pacman-unity.git
    ```
 2. Abre **Unity Hub** → pestaña **Projects** → **Add** → **Add project from disk**.
-3. Selecciona la carpeta `come-puntos` (la que contiene `Assets`, `Packages` y `ProjectSettings`).
+3. Selecciona la carpeta `pacman-unity` (la que contiene `Assets`, `Packages` y `ProjectSettings`).
 4. Si Unity Hub pide instalar la versión 6000.6.0f1, instálala (o elige una versión 6000.x compatible).
 5. La primera vez Unity tarda unos minutos en importar el proyecto.
 6. Abre la escena `Assets/Scenes/SampleScene.unity` y presiona **Play**.
